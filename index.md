@@ -1,53 +1,36 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ed Chadwick's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ed Chadwick
+Biomedical Engineer. 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="e.k.j.chadwick@keele.ac.uk">e.k.j.chadwick@keele.ac.uk</a>
+| <a href="https://www.keele.ac.uk/istm/staff/edchadwick/">My staff page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Senior Lecturer in Biomedical Engineering
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Biomechanics, musculoskeletal modelling, simulation, rehabilitation engineering.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`1993-96`
+__Strathclyde University__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2013`
+Outstanding Researcher Award, Real-time simulation and visualisation of arm dynamics, National Center for Simulation in Rehabilitation Research, Stanford University
 
 
 
@@ -57,35 +40,18 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2016`
+Dimitra Blana, Theocharis Kyriacou, Joris M Lambrecht, and Edward K Chadwick.
+Feasibility of using combined EMG and kinematic signals for prosthesis control: A
+simulation study using a virtual reality environment. Journal of Electromyography and
+Kinesiology, 29:21–27, aug 2016.
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Selected presentations
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2017 -->
 
 
